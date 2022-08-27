@@ -30,7 +30,7 @@ frame["diagonalAngle"] = math.degrees(math.atan2(frame["width"], frame["length"]
 cutoutPlate = (
     cq.Workplane()
     .rect(paddedCore["x"], paddedCore["y"])
-    .extrude(12)
+    .extrude(frame["cutout"]["z"])
     .edges("not(<Z)")
     .fillet(frame["cutout"]["fillet"])
 )
