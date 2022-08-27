@@ -22,7 +22,7 @@ Optionally also install cq-editor to use the `render.py` for easier previewing o
 ### changing basic dimensions
 The dimensions of the model can be changed to your liking using the provider config file: `config.py`.
 The config is in the form of a python dictionary.
----
+
 After modifications you can generate a new model by running `python export.py`, inside a conda environment with CadQuery installed.
 Alternatively you can preview the model by running `cq-editor render.py`
 For the later, please note that cq-editor will not auto track changes made in included files.
