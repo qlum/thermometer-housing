@@ -1,6 +1,6 @@
 # Printable stand standard chinese thermometers
 
-![Render of thermometer](./images/render.png)
+![Render of thermometer](./Images/render.png)
 
 ---
 
