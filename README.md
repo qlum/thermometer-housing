@@ -1,6 +1,6 @@
-# Printable model for standard chinese thermometers
+# Printable stand standard chinese thermometers
 
-[insert screenshots here]
+![Render of thermometer](./images/render.png)
 
 ---
 
