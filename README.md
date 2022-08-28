@@ -1,4 +1,4 @@
-# Printable stand standard chinese thermometers
+# Printable stand standard Chinese thermometers
 
 ![Render of thermometer](./Images/render.png)
 
